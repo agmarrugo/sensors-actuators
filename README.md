@@ -1,7 +1,7 @@
 Sensors and Actuators
 ===
 
-**Notes on Sensors and Actuators with python**
+**Notes on Sensors and Actuators with ipython notebooks**
 
 Andrés Marrugo
 
