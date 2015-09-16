@@ -17,8 +17,9 @@ Introduction
 
 Performance Characteristics of Sensors and Actuators
 ------------
-- [A simple position sensor.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/position-sensor.ipynb)
 
 - [Power loss in optical fibers.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/power-loss-in-optical-fibers.ipynb)
+
+- [A simple position sensor.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/position-sensor.ipynb)
 
 
