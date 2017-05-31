@@ -24,4 +24,13 @@ Performance Characteristics of Sensors and Actuators
 
 - [A simple position sensor.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/position-sensor.ipynb)
 
+- [Analytic form of transfer function.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/Ex_2_3.ipynb)
+
+- [Linear approximation of nonlinear transfer function.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/Ex_2_16.ipynb)
+
+Mechanical Sensors
+------------
+
+- [Evaluation of a force sensor.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/Ex6_4_evaluation_force_sensor.ipynb)
+
 
