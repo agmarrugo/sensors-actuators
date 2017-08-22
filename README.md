@@ -26,6 +26,8 @@ Performance Characteristics of Sensors and Actuators
 
 - [Analytic form of transfer function.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/Ex_2_3.ipynb)
 
+-[Errors in sensing](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/Ex2-10-errors-in-sensing.ipynb)
+
 - [Linear approximation of nonlinear transfer function.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/Ex_2_16.ipynb)
 
 Mechanical Sensors
