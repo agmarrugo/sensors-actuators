@@ -30,6 +30,12 @@ Performance Characteristics of Sensors and Actuators
 
 - [Linear approximation of nonlinear transfer function.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/Ex_2_16.ipynb)
 
+Temperature Sensors
+------------
+
+- [A wire-spool sensor.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/wire-spool_sensor.ipynb)
+
+
 Mechanical Sensors
 ------------
 
