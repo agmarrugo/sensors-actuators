@@ -17,7 +17,12 @@ This work was inspired by the lecture notes on [Scientific Computing for Biomech
 
 Introduction
 ------------
-- [Installing python.](http://nbviewer.ipython.org/github/demotu/BMC/blob/master/notebooks/PythonInstallation.ipynb) This takes you to a notebook by Marcos Duarte with instructions for installing python.
+
+We will be using Jupyter Python notebooks as a numerical computing and graphical platform for solving many problems in the course. To avoid installing Jupyter Python locally, I encourage you to use Google Colab. 
+
+- [Python Tutorial](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
+- [Introduction to colab](https://colab.research.google.com/notebooks/welcome.ipynb)
+
 
 Performance Characteristics of Sensors and Actuators
 ------------
