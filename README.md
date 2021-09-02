@@ -43,6 +43,7 @@ Temperature Sensors
 ------------
 
 - [A wire-spool sensor.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/wire-spool_sensor.ipynb)
+- [Thermocouple reference tables](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/thermocouples_reference_tables.ipynb)
 
 
 Mechanical Sensors
