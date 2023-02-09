@@ -1,7 +1,7 @@
 Sensors and Instrumentation
 ===
 
-**Notes on Sensors and Actuators with ipython notebooks**
+**Notes on Sensors and Instrumentation with ipython notebooks**
 
 Andrés Marrugo, PhD
 
