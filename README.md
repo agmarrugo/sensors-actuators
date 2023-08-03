@@ -27,7 +27,7 @@ Definitions, classifications, and general requirements
 ------------
 - [Passive and active sensors](notebooks/passive-and-active-sensors.md)
 - [Decibel measurements](https://github.com/agmarrugo/sensors-actuators/blob/master/notebooks/01_decibel_measurements.ipynb)
-- [Power loss in optical fibers.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/power-loss-in-optical-fibers.ipynb)
+- [Power loss in optical fibers.](https://github.com/agmarrugo/sensors-actuators/blob/master/notebooks/power_loss_in_optical_fibers.ipynb)
 
 Performance Characteristics of Sensors
 ------------
