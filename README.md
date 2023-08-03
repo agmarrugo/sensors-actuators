@@ -23,13 +23,15 @@ We will be using Jupyter Python notebooks as a numerical computing and graphical
 - [Python Tutorial](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
 - [Introduction to colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 
+Definitions, classifications, and general requirements
+------------
+- [Passive and active sensors](notebooks/passive-and-active-sensors.md)
+- [Decibel measurements](https://github.com/agmarrugo/sensors-actuators/blob/master/notebooks/01_decibel_measurements.ipynb)
+- [Power loss in optical fibers.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/power-loss-in-optical-fibers.ipynb)
 
 Performance Characteristics of Sensors
 ------------
 
-- [Passive and active sensors](notebooks/passive-and-active-sensors.md)
-
-- [Power loss in optical fibers.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/power-loss-in-optical-fibers.ipynb)
 
 - [A simple position sensor.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/position-sensor.ipynb)
 
