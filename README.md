@@ -32,7 +32,8 @@ Definitions, classifications, and general requirements
 Performance Characteristics of Sensors
 ------------
 
-
+- [Sensor selection](https://github.com/agmarrugo/sensors-actuators/blob/master/notebooks/sensor-selection.md)
+ 
 - [A simple position sensor.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/position-sensor.ipynb)
 
 - [Analytic form of transfer function.](http://nbviewer.ipython.org/github/agmarrugo/sensors-actuators/blob/master/notebooks/Ex_2_3.ipynb)
